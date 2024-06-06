@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+python-multipart
+pydantic[dotenv]
+openai
+pinecone-client
+aiofiles
